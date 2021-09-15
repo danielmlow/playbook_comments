@@ -2,7 +2,7 @@
 
 # Estimating the effect of the amount of comments on 
 
-
+Custom lexicons about suicidal thoughts and behaviors (STBs) are within `create_dataset.ipynb`
 
 `download_reddit_posts_and_comments.ipynb`
 

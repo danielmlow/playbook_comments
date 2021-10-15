@@ -4,6 +4,9 @@
 
 Custom lexicons about suicidal thoughts and behaviors (STBs) are within `create_dataset.ipynb`
 
+
+
+
 `download_reddit_posts_and_comments.ipynb`
 
 * Takes SuicideWatch (SW) posts from 2018 and 2019 from Reddit Mental Health Dataset, looks for posts from the same authors, then looks for comments for every SuicideWatch post (an author may have several SW posts, not contained in the Reddit Mental Health Dataset). 
